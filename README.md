@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @subratsri
+- 👋 Hi, I’m Subrat Srivastava
 - 👀 I’m interested in ... Website design and development
 - 🌱 I’m currently learning ... React and Digital Marketing
-- 💞️ I’m looking to collaborate on ... My Personal Company (heytulip.in)
-- 📫 How to reach me ...  subrat@heytulip.in
+- 📫 How to reach me ...  
 
 <!---
 subratsri/subratsri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
