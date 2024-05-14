@@ -5,4 +5,4 @@
   - 📧 subrat2406@gmail.com
   - 🕊️ Send a pigeon
 - 💼🏙️ : Gurugram, India -> Dubai, UAE -> Pune, India
-Experienced professional in Contact Center implementation for different sectors like Banking & Fintech, Travel, Property Developer, Telecom and many more 
+- Experienced professional in Contact Center implementation for different sectors like Banking & Fintech, Travel, Property Developer, Telecom and many more 
